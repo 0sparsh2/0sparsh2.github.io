@@ -9,18 +9,27 @@
 
 ## About me
 
-I'm Sparsh Nagpal. A Machine Learning Engineer at [AppyHigh Technology](https://www.appyhigh.com/)    
+I'm Sparsh Nagpal. A Machine Learning Engineer at [AppyHigh Technology](https://www.appyhigh.com/). I have previously worked upon Indian Sign Language models at [Friends for Inclusion](). Highly interested in Blockchain and Neuroscience and their implementation with ML. 
 
 ## Things I am passionate about
 
 - ML :robot:
 - Blockchain :octocat:
+- Entrepreneurship & Start Ups :laptop:
 
 ## Get in touch :coffee:
 
 - Your future buddy to discuss AI related things and tech in general on [Twitter](https://twitter.com/techsparshyyy).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/sparshnagpal)
-- And of course GitHub you're already on (Recursion).
+- And of course GitHub you're already on .
+
+## You can find my CV at 
+
+- [Here](https://drive.google.com/file/d/1Sb_eLD-N5ucL4YW8xbs8FC6KrjCbIag9/view?usp=sharing) Looking forward to wokring along and upgrading this cv 
+
+## My research papers
+
+
 
 
 <!--
