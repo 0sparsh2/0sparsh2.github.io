@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hey there 👋
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGNenRf4MBLew/profile-displaybackgroundimage-shrink_200_800/0/1652300783946?e=1668643200&v=beta&t=cIcLyd3AliEf9H5johfwKXjqonfsd4TmdwS9LVSQSoc" alt="Hello world">
 
@@ -13,11 +13,11 @@ I'm Sparsh Nagpal. A Machine Learning Engineer at [AppyHigh Technology](https://
 
 ## Things I am passionate about
 
-- ML :robot:
-- Blockchain :octocat:
-- Entrepreneurship & Start Ups :laptop:
+- ML 🤖
+- Blockchain 😺
+- Entrepreneurship & Start Ups 💻
 
-## Get in touch :coffee:
+## Get in touch ☕
 
 - Your future buddy to discuss AI related things and tech in general on [Twitter](https://twitter.com/techsparshyyy).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/sparshnagpal)
@@ -29,6 +29,8 @@ I'm Sparsh Nagpal. A Machine Learning Engineer at [AppyHigh Technology](https://
 
 ## My research papers
 
+
+## Certifications
 
 
 
