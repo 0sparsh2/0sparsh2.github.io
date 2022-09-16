@@ -33,7 +33,8 @@
 
 </br>
 <div>
-<p align="down"> 
+    
+<p align="centre" margin-top="20px"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/0sparsh2/count.svg" />
 </p>
