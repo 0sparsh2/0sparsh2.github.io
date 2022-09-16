@@ -1,7 +1,55 @@
 # Sparsh Nagpal
 ### ML Engineer 
 
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQEX_5JP2BdAJw/profile-displayphoto-shrink_800_800/0/1622919664727?e=1668643200&v=beta&t=4ECIEPlc3hYJ5ZwmsmeefUO9tCY4ASa64kAJ_7Wkr38" alt="Hello world" width=200, height=200>
+<!--img src="https://media-exp1.licdn.com/dms/image/C5603AQEX_5JP2BdAJw/profile-displayphoto-shrink_800_800/0/1622919664727?e=1668643200&v=beta&t=4ECIEPlc3hYJ5ZwmsmeefUO9tCY4ASa64kAJ_7Wkr38" alt="Hello world" width=200, height=200-->
+
+
+
+
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  padding: 5px;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQEX_5JP2BdAJw/profile-displayphoto-shrink_800_800/0/1622919664727?e=1668643200&v=beta&t=4ECIEPlc3hYJ5ZwmsmeefUO9tCY4ASa64kAJ_7Wkr38" alt="Me" width=100%>  </div>
+  <div class="column">
+    <img src="[img_forest.jpg](https://media-exp1.licdn.com/dms/image/C4D16AQGNenRf4MBLew/profile-displaybackgroundimage-shrink_350_1400/0/1652300783946?e=1668643200&v=beta&t=lCNr0jxybLtGh7kitezPUp26DO1tWT5cEYnvflRbNWM)" alt="About Me" style="width:100%">
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center"> 
   Visitor count<br>
