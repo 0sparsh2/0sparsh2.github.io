@@ -5,6 +5,25 @@
 
 
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.column::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+
 
 
 <div class="row" display=flex flex-direction=column;>
