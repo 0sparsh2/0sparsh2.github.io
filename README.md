@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hey there 
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGNenRf4MBLew/profile-displaybackgroundimage-shrink_200_800/0/1652300783946?e=1668643200&v=beta&t=cIcLyd3AliEf9H5johfwKXjqonfsd4TmdwS9LVSQSoc" alt="Hello world">
 
@@ -13,9 +13,9 @@ I'm Sparsh Nagpal. A Machine Learning Engineer at [AppyHigh Technology](https://
 
 ## Things I am passionate about
 
-- ML 🤖
-- Blockchain 😺
-- Entrepreneurship & Start Ups 💻
+- ML 
+- Blockchain 
+- Entrepreneurship & Start Ups 
 
 ## Get in touch ☕
 
@@ -29,8 +29,10 @@ I'm Sparsh Nagpal. A Machine Learning Engineer at [AppyHigh Technology](https://
 
 ## My research papers
 
+- [Music Genre Classification Using ML models](https://www.ijraset.com/fileserve.php?FID=35381)
+- [Indian Sign Language translation](https://empower2021.iiitb.ac.in/wp-content/uploads/2022/01/paper15_Improving-the-Efficacy-of-Virtual-Sign-Language-Interpreter.pdf)
+- Sketch to Face Image to Image Translator using Contextual GANs and GFPGANs (in progress)
 
-## Certifications
 
 
 
