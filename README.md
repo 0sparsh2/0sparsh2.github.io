@@ -1,7 +1,7 @@
 # Sparsh Nagpal
 ### ML Engineer 
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGNenRf4MBLew/profile-displaybackgroundimage-shrink_200_800/0/1652300783946?e=1668643200&v=beta&t=cIcLyd3AliEf9H5johfwKXjqonfsd4TmdwS9LVSQSoc" alt="Hello world">
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQEX_5JP2BdAJw/profile-displayphoto-shrink_800_800/0/1622919664727?e=1668643200&v=beta&t=4ECIEPlc3hYJ5ZwmsmeefUO9tCY4ASa64kAJ_7Wkr38" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
