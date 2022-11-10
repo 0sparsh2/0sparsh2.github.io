@@ -41,7 +41,7 @@ I'm Sparsh Nagpal. A Machine Learning Engineer at [AppyHigh Technology](https://
 
 ## You can find my CV at 
 
-- [Here](https://docs.google.com/document/d/1MjvyGa2KwU-rjxoR4ZhsedtinArtzrVx/edit?usp=sharing&ouid=116637524662604649466&rtpof=true&sd=true) Looking forward to wokring along and upgrading this cv 
+- [Here](https://drive.google.com/file/d/1fIywPDfq1ZbMhnoZwDii65gLuDBOUSWb/view?usp=sharing) Looking forward to wokring along and upgrading this cv 
 
 ## My research papers
 
