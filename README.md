@@ -47,7 +47,7 @@ I'm Sparsh Nagpal. A Machine Learning Engineer at [AppyHigh Technology](https://
 
 - [Music Genre Classification Using ML models](https://www.ijraset.com/fileserve.php?FID=35381)
 - [Indian Sign Language translation](https://empower2021.iiitb.ac.in/wp-content/uploads/2022/01/paper15_Improving-the-Efficacy-of-Virtual-Sign-Language-Interpreter.pdf)
-- Sketch to Face Image to Image Translator using Contextual GANs and GFPGANs (in progress)
+- [Sketch-to-Face Image Translation and enhancement using a Multi-GAN approach](https://doi.org/10.22214/ijraset.2022.48041)
 
 
 
