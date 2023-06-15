@@ -25,7 +25,7 @@ Visitor count
 
 ## About me
 
-I'm Sparsh Nagpal. Incoming Data Science Masters student at [University of Washington](washington.edu). A Ex-ML Engineer at [AppyHigh Technology](https://www.appyhigh.com/). I have previously worked upon Indian Sign Language models at [Friends for Inclusion](http://friendsforinclusion.org). Highly interested in Generative AI, Neuroscience and their scope in the current market. 
+I'm Sparsh Nagpal. Incoming Data Science Masters student at [University of Washington](https://www.washington.edu/). A Ex-ML Engineer at [AppyHigh Technology](https://www.appyhigh.com/). I have previously worked upon Indian Sign Language models at [Friends for Inclusion](http://friendsforinclusion.org). Highly interested in Generative AI, Neuroscience and their scope in the current market. 
 
 ## Things I am passionate about
 
