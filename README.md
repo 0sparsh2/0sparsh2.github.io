@@ -38,7 +38,7 @@ I'm Sparsh Nagpal. Incoming Data Science Masters student at [University of Washi
 
 ## You can find my CV at 
 
-- [Here]([https://drive.google.com/file/d/1fIywPDfq1ZbMhnoZwDii65gLuDBOUSWb/view?usp=sharing](https://drive.google.com/file/d/1trrXSaqjfPqd91q_0xCnkRlHgNkct_8K/view?usp=sharing)) Looking forward to working along and upgrading this cv 
+- [Here](https://drive.google.com/file/d/1fIywPDfq1ZbMhnoZwDii65gLuDBOUSWb/view?usp=sharing) Looking forward to working along and upgrading this cv 
 
 ## My research papers
 
