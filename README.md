@@ -25,29 +25,26 @@ Visitor count
 
 ## About me
 
-I'm Sparsh Nagpal. A Machine Learning Engineer at [AppyHigh Technology](https://www.appyhigh.com/). I have previously worked upon Indian Sign Language models at [Friends for Inclusion](). Highly interested in Blockchain and Neuroscience and their implementation with ML. 
+I'm Sparsh Nagpal. Incoming Data Science Masters student at [University of Washington](washington.edu). A Ex-ML Engineer at [AppyHigh Technology](https://www.appyhigh.com/). I have previously worked upon Indian Sign Language models at [Friends for Inclusion](http://friendsforinclusion.org). Highly interested in Generative AI, Neuroscience and their scope in the current market. 
 
 ## Things I am passionate about
 
-- ML 
-- Blockchain 
+- AI  
 - Entrepreneurship & Start Ups 
 
 ## Get in touch ☕
 
-- Your future buddy to discuss AI related things and tech in general on [Twitter](https://twitter.com/techsparshyyy).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sparshnagpal)
-- And of course GitHub you're already on .
+- You can get in touch for collabortation, queries, opportunities, all on [LinkedIn](https://www.linkedin.com/in/sparshnagpal)
 
 ## You can find my CV at 
 
-- [Here](https://drive.google.com/file/d/1fIywPDfq1ZbMhnoZwDii65gLuDBOUSWb/view?usp=sharing) Looking forward to working along and upgrading this cv 
+- [Here]([https://drive.google.com/file/d/1fIywPDfq1ZbMhnoZwDii65gLuDBOUSWb/view?usp=sharing](https://drive.google.com/file/d/1trrXSaqjfPqd91q_0xCnkRlHgNkct_8K/view?usp=sharing)) Looking forward to working along and upgrading this cv 
 
 ## My research papers
 
-- [Music Genre Classification Using ML models](https://www.ijraset.com/fileserve.php?FID=35381)
-- [Indian Sign Language translation](https://empower2021.iiitb.ac.in/wp-content/uploads/2022/01/paper15_Improving-the-Efficacy-of-Virtual-Sign-Language-Interpreter.pdf)
 - [Sketch-to-Face Image Translation and enhancement using a Multi-GAN approach](https://doi.org/10.22214/ijraset.2022.48041)
+- [Indian Sign Language translation](https://empower2021.iiitb.ac.in/wp-content/uploads/2022/01/paper15_Improving-the-Efficacy-of-Virtual-Sign-Language-Interpreter.pdf)
+- [Music Genre Classification Using ML models](https://www.ijraset.com/fileserve.php?FID=35381)
 
 
 
