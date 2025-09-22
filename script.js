@@ -118,6 +118,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 });
 
+// Initialize EmailJS
+emailjs.init('815Yw8XKww_xj5yh2');
+
 // Contact form handling
 if (contactForm) {
     contactForm.addEventListener('submit', async (e) => {
@@ -132,22 +135,23 @@ if (contactForm) {
         
         // Get form data
         const formData = new FormData(contactForm);
-        const data = {
-            name: formData.get('name'),
-            email: formData.get('email'),
+        const templateParams = {
+            from_name: formData.get('from_name'),
+            from_email: formData.get('from_email'),
             subject: formData.get('subject'),
             message: formData.get('message')
         };
         
         try {
-            // Simulate form submission (replace with actual email service)
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            // Send email using EmailJS
+            await emailjs.send('service_yaav248', 'template_28pa45a', templateParams);
             
             // Show success message
             showNotification('Message sent successfully! I\'ll get back to you soon.', 'success');
             contactForm.reset();
             
         } catch (error) {
+            console.error('EmailJS Error:', error);
             // Show error message
             showNotification('Failed to send message. Please try again or contact me directly.', 'error');
         } finally {
