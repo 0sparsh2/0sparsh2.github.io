@@ -481,6 +481,124 @@ p {
     opacity: 0.9;
 }
 
+/* Experience Section */
+.experience {
+    padding: 100px 0;
+    background: var(--bg-secondary);
+}
+
+.experience-timeline {
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.experience-timeline::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--gradient-primary);
+    transform: translateX(-50%);
+}
+
+.experience-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 3rem;
+    position: relative;
+}
+
+.experience-item:nth-child(odd) {
+    flex-direction: row-reverse;
+}
+
+.experience-date {
+    flex: 1;
+    text-align: center;
+    padding: 0 2rem;
+}
+
+.experience-item:nth-child(even) .experience-date {
+    text-align: right;
+}
+
+.experience-item:nth-child(odd) .experience-date {
+    text-align: left;
+}
+
+.date {
+    background: var(--gradient-primary);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    display: inline-block;
+}
+
+.experience-content {
+    flex: 1;
+    background: var(--bg-primary);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: var(--shadow-md);
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.experience-content:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg);
+}
+
+.experience-item:nth-child(even) .experience-content {
+    margin-left: 2rem;
+}
+
+.experience-item:nth-child(odd) .experience-content {
+    margin-right: 2rem;
+}
+
+.experience-content::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+}
+
+.experience-item:nth-child(even) .experience-content::before {
+    left: -20px;
+    border-right-color: var(--bg-primary);
+}
+
+.experience-item:nth-child(odd) .experience-content::before {
+    right: -20px;
+    border-left-color: var(--bg-primary);
+}
+
+.experience-content h3 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.experience-content h4 {
+    color: var(--text-secondary);
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.experience-tech {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+}
+
 /* Projects Section */
 .projects {
     padding: 100px 0;
@@ -875,6 +993,44 @@ p {
 
     .contact-form-container {
         order: 1;
+    }
+
+    .experience-timeline::before {
+        left: 20px;
+    }
+
+    .experience-item {
+        flex-direction: column;
+        align-items: flex-start;
+        padding-left: 3rem;
+    }
+
+    .experience-item:nth-child(odd) {
+        flex-direction: column;
+    }
+
+    .experience-date {
+        text-align: left;
+        padding: 0;
+        margin-bottom: 1rem;
+    }
+
+    .experience-item:nth-child(even) .experience-date,
+    .experience-item:nth-child(odd) .experience-date {
+        text-align: left;
+    }
+
+    .experience-content {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        width: 100%;
+    }
+
+    .experience-content::before {
+        left: -30px !important;
+        right: auto !important;
+        border-left-color: transparent !important;
+        border-right-color: var(--bg-primary) !important;
     }
 
     .footer-content {
