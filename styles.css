@@ -451,6 +451,19 @@ p {
     font-weight: 600;
 }
 
+.skills-section {
+    margin-bottom: 1.5rem;
+}
+
+.skills-section h4 {
+    color: var(--text-primary);
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
 .skills-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -471,15 +484,16 @@ p {
 .skill-item:hover {
     background: var(--primary-color);
     color: white;
+    transform: translateY(-2px);
+}
+
+.skill-item:hover i {
+    color: white;
 }
 
 .skill-item i {
     color: var(--primary-color);
     transition: color 0.3s ease;
-}
-
-.skill-item:hover i {
-    color: white;
 }
 
 .about-stats {
