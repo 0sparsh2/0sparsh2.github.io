@@ -979,20 +979,6 @@ p {
     color: var(--primary-color);
 }
 
-.visitor-counter {
-    text-align: center;
-    padding-top: 1rem;
-    border-top: 1px solid #374151;
-}
-
-.counter-number {
-    font-size: 1.2rem;
-    font-weight: 600;
-    color: var(--primary-color);
-    margin-right: 0.5rem;
-    display: inline-block;
-}
-
 /* Responsive Design */
 @media (max-width: 768px) {
     .hamburger {
